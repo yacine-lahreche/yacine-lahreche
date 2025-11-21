@@ -1,6 +1,6 @@
 # <p align="center">About Me</p>
 <p align="center">
-Front-end developer focused on building clean, responsive, and interactive web experiences using modern JavaScript and UI principles.<br>
+Front-end learner focused on building clean, responsive, and interactive web experiences using modern JavaScript and UI principles.<br>
 Passionate about learning, improving code quality, and delivering clear, maintainable solutions.
 </p>
 <br>
